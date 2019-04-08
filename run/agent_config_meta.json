@@ -1,0 +1,326 @@
+{
+  "cluster": {
+    "listen": {
+      "port": "/Users/admin/project/Egg-1/config/config.default.ts",
+      "hostname": "/Users/admin/project/Egg-1/config/config.default.ts",
+      "path": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+    }
+  },
+  "sourceUrl": "/Users/admin/project/Egg-1/config/config.default.ts",
+  "keys": "/Users/admin/project/Egg-1/config/config.default.ts",
+  "middleware": "/Users/admin/project/Egg-1/config/config.default.ts",
+  "bodyParser": {
+    "jsonLimit": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "formLimit": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "enable": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "strict": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "depth": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+    }
+  },
+  "security": {
+    "csrf": {
+      "enable": "/Users/admin/project/Egg-1/config/config.default.ts",
+      "useSession": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "sequelize": {
+    "dialect": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "database": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "host": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "port": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "username": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "password": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "pool": {
+      "max": "/Users/admin/project/Egg-1/config/config.default.ts",
+      "min": "/Users/admin/project/Egg-1/config/config.default.ts",
+      "acquire": "/Users/admin/project/Egg-1/config/config.default.ts",
+      "idle": "/Users/admin/project/Egg-1/config/config.default.ts"
+    }
+  },
+  "alisms": {
+    "AccessKeyID": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "AccessKeySecret": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "SignName": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "TemplateCode": {
+      "GET_SMS_CODE": "/Users/admin/project/Egg-1/config/config.default.ts"
+    }
+  },
+  "teleg": {
+    "token": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "showurl": "/Users/admin/project/Egg-1/config/config.default.ts"
+  },
+  "cors": {
+    "origin": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "allowMethods": "/Users/admin/project/Egg-1/config/config.default.ts",
+    "credentials": "/Users/admin/project/Egg-1/config/config.default.ts"
+  },
+  "session": {
+    "maxAge": "/Users/admin/project/Egg-1/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/admin/project/Egg-1/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/admin/project/Egg-1/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/admin/project/Egg-1/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/admin/project/Egg-1/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/admin/project/Egg-1/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/admin/project/Egg-1/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/admin/project/Egg-1/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/admin/project/Egg-1/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/admin/project/Egg-1/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/admin/project/Egg-1/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/admin/project/Egg-1/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/admin/project/Egg-1/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/admin/project/Egg-1/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/admin/project/Egg-1/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/admin/project/Egg-1/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/admin/project/Egg-1/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/admin/project/Egg-1/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/admin/project/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/admin/project/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/admin/project/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/admin/project/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/admin/project/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/admin/project/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/admin/project/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/admin/project/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/admin/project/Egg-1/node_modules/egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/admin/project/Egg-1/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/admin/project/Egg-1/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/admin/project/Egg-1/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/admin/project/Egg-1/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/admin/project/Egg-1/node_modules/egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/admin/project/Egg-1/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/admin/project/Egg-1/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/admin/project/Egg-1/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/admin/project/Egg-1/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/admin/project/Egg-1/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/admin/project/Egg-1/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/admin/project/Egg-1/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/admin/project/Egg-1/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/admin/project/Egg-1/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/admin/project/Egg-1/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/admin/project/Egg-1/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/admin/project/Egg-1/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/admin/project/Egg-1/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/admin/project/Egg-1/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/admin/project/Egg-1/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/admin/project/Egg-1/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/admin/project/Egg-1/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/admin/project/Egg-1/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/admin/project/Egg-1/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/admin/project/Egg-1/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+  "name": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "version": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "description": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "private": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "egg": {
+      "typescript": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "stop": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "dev": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "debug": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "test": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "cov": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "tsc": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "ci": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "autod": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "lint": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "clean": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "restart": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "@alicloud/sms-sdk": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "egg": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-sequelize": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "ethereumjs-util": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "moment": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "mysql2": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "pg": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "sequelize": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "telegraf": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@types/mocha": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "@types/node": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "@types/supertest": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "autod": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-ts-helper": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "tslib": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "tslint": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "typescript": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "url": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "eslintIgnore": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "author": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "license": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "env": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "level": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/admin/project/Egg-1/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "logging": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/admin/project/Egg-1/node_modules/egg/config/config.default.js"
+}

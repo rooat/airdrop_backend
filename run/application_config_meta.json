@@ -1,0 +1,318 @@
+{
+  "cluster": {
+    "listen": {
+      "port": "/home/centos/Projects/Egg-1/config/config.default.js",
+      "hostname": "/home/centos/Projects/Egg-1/config/config.default.js",
+      "path": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+    }
+  },
+  "sourceUrl": "/home/centos/Projects/Egg-1/config/config.default.js",
+  "keys": "/home/centos/Projects/Egg-1/config/config.default.js",
+  "middleware": "/home/centos/Projects/Egg-1/config/config.default.js",
+  "bodyParser": {
+    "jsonLimit": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "formLimit": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "enable": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "encoding": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "strict": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "depth": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+    }
+  },
+  "security": {
+    "csrf": {
+      "enable": "/home/centos/Projects/Egg-1/config/config.default.js",
+      "useSession": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+      "headerName": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+      "queryName": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+      "value": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+      "maxAge": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+      "value": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+      "value": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+      "policy": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "sequelize": {
+    "dialect": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "database": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "host": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "port": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "username": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "password": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "pool": {
+      "max": "/home/centos/Projects/Egg-1/config/config.default.js",
+      "min": "/home/centos/Projects/Egg-1/config/config.default.js",
+      "acquire": "/home/centos/Projects/Egg-1/config/config.default.js",
+      "idle": "/home/centos/Projects/Egg-1/config/config.default.js"
+    }
+  },
+  "alisms": {
+    "AccessKeyID": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "AccessKeySecret": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "SignName": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "TemplateCode": {
+      "GET_SMS_CODE": "/home/centos/Projects/Egg-1/config/config.default.js"
+    }
+  },
+  "teleg": {
+    "token": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "showurl": "/home/centos/Projects/Egg-1/config/config.default.js"
+  },
+  "cors": {
+    "origin": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "allowMethods": "/home/centos/Projects/Egg-1/config/config.default.js",
+    "credentials": "/home/centos/Projects/Egg-1/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/home/centos/Projects/Egg-1/node_modules/egg-session/config/config.default.js",
+    "key": "/home/centos/Projects/Egg-1/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/home/centos/Projects/Egg-1/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/home/centos/Projects/Egg-1/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/home/centos/Projects/Egg-1/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/home/centos/Projects/Egg-1/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/home/centos/Projects/Egg-1/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/home/centos/Projects/Egg-1/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/home/centos/Projects/Egg-1/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/home/centos/Projects/Egg-1/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/home/centos/Projects/Egg-1/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/home/centos/Projects/Egg-1/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/home/centos/Projects/Egg-1/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/home/centos/Projects/Egg-1/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/home/centos/Projects/Egg-1/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/home/centos/Projects/Egg-1/node_modules/egg-watcher/config/config.default.js",
+    "eventSources": {
+      "default": "/home/centos/Projects/Egg-1/node_modules/egg-watcher/config/config.default.js",
+      "development": "/home/centos/Projects/Egg-1/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/home/centos/Projects/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/home/centos/Projects/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/home/centos/Projects/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/home/centos/Projects/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/home/centos/Projects/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/home/centos/Projects/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "files": "/home/centos/Projects/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/home/centos/Projects/Egg-1/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/home/centos/Projects/Egg-1/node_modules/egg-multipart/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/home/centos/Projects/Egg-1/node_modules/egg-schedule/config/config.default.js",
+      "file": "/home/centos/Projects/Egg-1/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/home/centos/Projects/Egg-1/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/home/centos/Projects/Egg-1/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/home/centos/Projects/Egg-1/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/home/centos/Projects/Egg-1/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/home/centos/Projects/Egg-1/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/home/centos/Projects/Egg-1/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/home/centos/Projects/Egg-1/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/home/centos/Projects/Egg-1/node_modules/egg-static/config/config.default.js",
+    "dir": "/home/centos/Projects/Egg-1/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/home/centos/Projects/Egg-1/node_modules/egg-static/config/config.default.js",
+    "preload": "/home/centos/Projects/Egg-1/node_modules/egg-static/config/config.default.js",
+    "buffer": "/home/centos/Projects/Egg-1/node_modules/egg-static/config/config.prod.js",
+    "maxFiles": "/home/centos/Projects/Egg-1/node_modules/egg-static/config/config.default.js",
+    "maxAge": "/home/centos/Projects/Egg-1/node_modules/egg-static/config/config.prod.js"
+  },
+  "view": {
+    "root": "/home/centos/Projects/Egg-1/node_modules/egg-view/config/config.default.js",
+    "cache": "/home/centos/Projects/Egg-1/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/home/centos/Projects/Egg-1/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/home/centos/Projects/Egg-1/node_modules/egg-view/config/config.default.js",
+    "mapping": "/home/centos/Projects/Egg-1/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+  "name": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+  "proxy": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "version": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "description": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "private": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "egg": {
+      "typescript": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "stop": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "dev": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "debug": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "test-local": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "test": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "cov": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "tsc": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "ci": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "autod": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "lint": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "clean": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "restart": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "@alicloud/sms-sdk": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "egg": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-cors": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-sequelize": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-validate": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "ethereumjs-util": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "moment": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "mysql2": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "pg": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "sequelize": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "telegraf": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@types/mocha": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "@types/node": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "@types/supertest": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "autod": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "autod-egg": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-ci": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-bin": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-mock": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "egg-ts-helper": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "tslib": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "tslint": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "typescript": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "url": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "eslintIgnore": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "author": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "license": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+  "HOME": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+  "rundir": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "notFound": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "sitefile": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "middlewares": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "httpClient": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "encoding": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "env": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "level": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "outputJSON": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "buffer": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "appLogName": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "coreLogName": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "agentLogName": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "errorLogName": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "coreLogger": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "allowDebugAtProd": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "logging": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/home/centos/Projects/Egg-1/node_modules/egg/config/config.default.js"
+}
